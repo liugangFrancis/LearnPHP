@@ -1,0 +1,9 @@
+
+密钥对：
+https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/ec2-key-pairs.html
+
+创建密钥对
+多个用户的密钥对
+删除密钥对
+添加或者替换密钥对
+丢失密钥对连接到linux 实例
